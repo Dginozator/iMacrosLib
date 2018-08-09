@@ -1,5 +1,5 @@
 # iMacrosLib
-Big library with direct access to the XPCOM. 22 modules, 234 functions and methods at all.
+iMacros+JS Library with direct access to the XPCOM. 22 modules, 234 functions and methods at all.
 
 Used with old Firefox/Palemoon and iMacros 8.8.7
 
